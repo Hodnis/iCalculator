@@ -1,13 +1,23 @@
 body {
-  color: white;
-}
-
-.red {
-  background-color: #93b5c6;
   text-align: center;
 }
 
-.green {
-  background-color: #c9ccd5;
+.test {
+  background-color: #fcffa6;
+}
+.budget {
+  background-color: #fcffa6;
   text-align: center;
+}
+
+.tips {
+  background-color: #c1ffd7;
+}
+
+.contact {
+  background-color: #b5deff;
+}
+
+.footer {
+  background: #cab8ff;
 }
