@@ -6,3 +6,7 @@ h1 {
   margin-top: 4rem;
   margin-bottom: 4rem;
 }
+
+.container-fluid {
+  margin-top: 50px;
+}
